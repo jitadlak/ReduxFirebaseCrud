@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006936955530",
+    "project_id": "fir-reduxcrud",
+    "storage_bucket": "fir-reduxcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006936955530:android:01c5a1b5a194436245ab73",
+        "android_client_info": {
+          "package_name": "com.firebasereduxcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006936955530-e4thhdv6khe054iigu620cp1td3jc4ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPv52gXziy03tRwCFjJ-bDrdRYjLIHZao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006936955530-e4thhdv6khe054iigu620cp1td3jc4ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
